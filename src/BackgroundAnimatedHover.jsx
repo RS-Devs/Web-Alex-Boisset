@@ -6,7 +6,6 @@ import B3ttertelaJar from "./assets/img/bgAnimated/b3tter/b3ttertelaJar.webp";
 import GranolaB3tter from "./assets/img/bgAnimated/b3tter/granolaB3tter.webp";
 import CocoGranola from "./assets/img/bgAnimated/b3tter/CocoGranola.webp";
 
-// import backgroundImage from "./assets/img/bgAnimated/b3tter/BgB3tter.webp";
 
 const BackgroundAnimated = () => {
   const containerRef = useRef(null);
