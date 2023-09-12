@@ -11,7 +11,6 @@ import AlexBar from "./assets/img/presentacion/alex.webp";
 import AdriaBar from "./assets/img/presentacion/adria.webp";
 import adriab3tter from "./assets/img/presentacion/adriab3tter.webp";
 
-// import backgroundImage from "./assets/img/bgAnimated/b3tter/BgB3tter.webp";
 
 const BackgroundAnimated = () => {
   const containerRef = useRef(null);

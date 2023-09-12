@@ -1,5 +1,5 @@
 import { useEffect, useRef } from "react";
-// import BarCacahuete from "./assets/img/bgAnimated/b3tter/barCacahuete.webp";
+import BarCacahuete from "./assets/img/bgAnimated/b3tter/barCacahuete.webp";
 import BarChocolate from "./assets/img/bgAnimated/b3tter/barChocolate.webp";
 import BarArandanos from "./assets/img/bgAnimated/b3tter/barArandanos.webp";
 import B3ttertelaJar from "./assets/img/bgAnimated/b3tter/b3ttertelaJar.webp";
@@ -77,7 +77,7 @@ const BackgroundAnimated = () => {
       <div className="container-b3tter">
         <div className="background-image-b3tter -z-10 animate__animated animate__fadeIn"></div>
       </div>
-      {/* <img
+      <img
         src={BarCacahuete}
         alt="Barrita B3tter Cacahuete"
         className="background-image z-10 animate__animated animate__fadeIn animate__slow"
@@ -87,6 +87,12 @@ const BackgroundAnimated = () => {
         alt="Barrita B3tter Cacahuete"
         className="background-image z-10 animate__animated animate__fadeIn animate__slow"
       />
+      <img
+        src={BarCacahuete}
+        alt="Barrita B3tter Cacahuete"
+        className="background-image z-10 animate__animated animate__fadeIn animate__slow"
+      />
+
       <img
         src={BarCacahuete}
         alt="Barrita B3tter Cacahuete"
@@ -98,12 +104,6 @@ const BackgroundAnimated = () => {
         alt="Barrita B3tter Cacahuete"
         className="background-image z-10 animate__animated animate__fadeIn animate__slow"
       />
-
-      <img
-        src={BarCacahuete}
-        alt="Barrita B3tter Cacahuete"
-        className="background-image z-10 animate__animated animate__fadeIn animate__slow"
-      /> */}
 
       <img
         src={BarChocolate}
